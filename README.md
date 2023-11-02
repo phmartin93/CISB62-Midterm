@@ -1,7 +1,7 @@
-# CISB62-Midterm
+# Traffic Sign Classification Project
 
-## This is my midterm project for CISB 62
+## Trained a convolutional neural network to identify traffic signs.
 
-## Name: Patrick Martin
+## Author: Patrick Martin
 
 ## Date: October 22, 2023
